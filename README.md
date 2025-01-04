@@ -39,6 +39,18 @@ I'm a passionate **Frontend Developer** and **React Native Developer** with a kn
   - Key Features: Live assessments, real-time scoring, and reporting.
 ---
 
+## Education 🎓
+
+- **Bachelor of Science in Computer Science** 💻  
+  *University of Mumbai*, *2020-2023*
+  *Thankur College of Science and Commerce Kandivali*  
+  Focus on web development and software engineering.
+
+- **Certification Courses** 🌐  
+  -**Frontend Development** -*Simplilearn*,
+  -**Web Development** -*Internshala*, 
+  Specialized in front-end development and React.js.
+
 ## 📢 Connect with Me:
 
 ### 🔗 Social Media:
@@ -49,7 +61,7 @@ I'm a passionate **Frontend Developer** and **React Native Developer** with a kn
 - **portfolio**: [aditya.porfolio](https://portfolio-drab-pi-37.vercel.app/)
 
 ### ☎️ Contact:
-- **Email**: adityajaiswar11.@gmail.com
+- **Email**: adityajaiswar11@gmail.com
 - 
 ---
 
