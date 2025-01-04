@@ -42,14 +42,15 @@ I'm a passionate **Frontend Developer** and **React Native Developer** with a kn
 ## Education 🎓
 
 - **Bachelor of Science in Computer Science** 💻  
-  *University of Mumbai*, *2020-2023*
-  *Thankur College of Science and Commerce Kandivali*  
-  Focus on web development and software engineering.
+  - *University of Mumbai* - *2020-2023*
+  - *Thankur College of Science and Commerce Kandivali*  
+  - Focus on **Web development** and **software engineering**.
 
-- **Certification Courses** 🌐  
-  -**Frontend Development** -*Simplilearn*,
-  -**Web Development** -*Internshala*, 
-  Specialized in front-end development and React.js.
+- **Certification Courses** 📚   
+  - **Frontend Development** -*Simplilearn*,
+  - **Web Development** -*Internshala*, 
+  - Specialized in front-end development and React.js.
+  - Focused on **React components**, **state management**, **Context Api** and **hooks**.
 
 ## 📢 Connect with Me:
 
