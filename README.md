@@ -30,7 +30,7 @@ I'm a passionate **Frontend Developer** and **React Native Developer** with a kn
 
 ## 🎯 Experience:
 - **Frontend Developer** at [Bold Softmation LLP - May 2024 - Present]
-  - Worked on a **CRM-based application** for **Glutape India Pvt. Ltd.**  
+  - Developing and managing a **CRM-based application** for **Glutape India Pvt. Ltd.**  
   - Used **React.js** and implemented user-friendly interfaces and efficient workflows.
 
 - **React Native Developer**  
