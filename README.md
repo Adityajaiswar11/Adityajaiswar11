@@ -1,20 +1,60 @@
-# Hi there 👋
+# Hi there, I'm Aditya Jaiswar! 👋
 
-I'm **Aditya Jaiswar**, a passionate **Frontend Developer and React Native Developer** specializing in building responsive and dynamic web applications.
-
-### 💻 Skills:
-- **Frontend**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Material UI, REST APIs, Redux State management,
-- **Backend**:Node.js, Express.js, Mongodb
-- **Tools**: Git, GitHub, VS Code, Postman, 
-
-### 🚀 What I Do:
-- Crafting beautiful and functional user interfaces.
-- Building RESTful APIs with Express.js.
-- Exploring new web development trends and technologies.
-
-### 🤝 Let's Connect:
-- 💌 Feel free to reach out with questions or collaborations in web development!
-- 🌟 Open to contributing to interesting open-source projects.
+I'm a passionate **Frontend Developer** and **React Native Developer** with a knack for crafting responsive and dynamic  applications. With experience in both frontend and backend development, I aim to create impactful user experiences and scalable web solutions.
 
 ---
+
+## 🔧 Tech Stack:
+
+### 🔣 Frontend:
+- **Languages**: HTML, CSS, JavaScript
+- **Libraries/Frameworks**: React,Next.js, Node.js, Tailwind CSS, Material UI, Bootstrap, Redux State management
+
+### 🤟 Backend:
+- **Frameworks**:Node.js, Express.js, 
+- **Database**: MongoDB and SQL
+
+### 🔎 Tools & Platforms:
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 🌟 Highlights:
+- ☑️ Developed responsive web applications with modern UI frameworks like **React** and **Tailwind CSS**.
+- ☑️ Built RESTful APIs with **Express.js**.
+- ☑️ Experienced in integrating frontend and backend seamlessly.
+
+---
+
+## 🎯 Experience:
+- **Frontend Developer** at [Bold Softmation LLP - May 2024 - Present]
+  - Worked on a **CRM-based application** for **Glutape India Pvt. Ltd.**  
+  - Used **React.js** and implemented user-friendly interfaces and efficient workflows.
+
+- **React Native Developer**  
+  - Created an **interview assessment app** for seamless recruitment processes.
+  - Built with React Native, it streamlines interview evaluations and feedback collection.
+  - Key Features: Live assessments, real-time scoring, and reporting.
+---
+
+## 📢 Connect with Me:
+
+### 🔗 Social Media:
+- **LinkedIn**: [Aditya Jaiswar](https://www.linkedin.com/in/aditya-jaiswar-60a167217/)
+
+### 🌐 Portfolios:
+- **GitHub**: [github.com/AdityaJaiswar](https://github.com/AdityaJaiswar)
+- **portfolio**: [aditya.porfolio](https://portfolio-drab-pi-37.vercel.app/)
+
+### ☎️ Contact:
+- **Email**: adityajaiswar11.@gmail.com
+- 
+---
+
+##  Fun Fact:
+When I’m not coding, I’m either watching **cricket** or exploring the latest trends in web development!
+
+Feel free to **connect** or **collaborate** with me. Let's build something amazing together!
 
