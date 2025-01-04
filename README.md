@@ -58,7 +58,7 @@ I'm a passionate **Frontend Developer** and **React Native Developer** with a kn
 - **LinkedIn**: [Aditya Jaiswar](https://www.linkedin.com/in/aditya-jaiswar-60a167217/)
 
 ### 🌐 Portfolios:
-- **GitHub**: [github.com/AdityaJaiswar](https://github.com/Adityajaiswar11/AdityaJaiswar)
+- **GitHub**: [github.com/AdityaJaiswar](https://github.com/Adityajaiswar11/Adityajaiswar11)
 - **portfolio**: [aditya.porfolio](https://portfolio-drab-pi-37.vercel.app/)
 
 ### ☎️ Contact:
