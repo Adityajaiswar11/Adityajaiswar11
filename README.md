@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Jaiswar! 👋
 
-I'm a passionate **Frontend Developer** and **React Native Developer** with a knack for crafting responsive and dynamic  applications. With experience in both frontend and backend development, I aim to create impactful user experiences and scalable web solutions.
+I'm a passionate **Full Stack Developer** and **React Native Developer** with a knack for crafting responsive and dynamic  applications. With experience in both frontend and backend development, I aim to create impactful user experiences and scalable web solutions.
 
 ---
 
